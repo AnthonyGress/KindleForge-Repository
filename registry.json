@@ -222,5 +222,14 @@
         "ABI": ["hf", "sf"],
         "dependencies": [],
         "tags": ["UTILITY"]
+    },
+    {
+        "name": "Kindle HID Passthrough",
+        "uri": "KindleHIDPassthrough",
+        "description": "Bluetooth HID Passthrough (Keyboards, Mice, Controllers)",
+        "author": "Lucas Zampieri",
+        "ABI": ["hf", "sf"],
+        "dependencies": [],
+        "tags": ["UTILITY"]
     }
 ]
